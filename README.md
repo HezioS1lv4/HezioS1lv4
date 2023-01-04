@@ -35,5 +35,5 @@
  
 </div>
 </p> <div align="right">
-  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" src="https://github.com/HezioS1lv4/HezioS1lv4/blob/f1ec1514805a97255ae4d649782f2e30fe8aab32/bt.png" title="Read in English" alt="read in english"/>
+  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" width="30em" src="https://github.com/HezioS1lv4/HezioS1lv4/blob/f1ec1514805a97255ae4d649782f2e30fe8aab32/bt.png" title="Read in English" alt="read in english"/>
  </div>
