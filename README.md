@@ -4,7 +4,7 @@
 - 👯 Procuro gerar valor e agregar à equipe na qual eu pertencer
 - 🤔 Procurando novos conhecimentos sempre, me da um help!
 - 💬 Pergunte-me sobre qualquer coisa
-
+<BR>
  
 <div>
   <a href="https://www.linkedin.com/in/hezio-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
