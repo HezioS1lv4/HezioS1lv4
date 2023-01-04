@@ -1,9 +1,9 @@
  <Hello World, i'm Hézio!>
  </div>
- 🌱Doing Data Science & Machine Learning college by Uniceub  
- 👯 I try to generate value and add to the team I belong to
- 🤔 Always looking for new knowledge, give me a help!
- 💬 Ask me about anything
+- 🌱Doing Data Science & Machine Learning college by Uniceub  
+- 👯 I try to generate value and add to the team I belong to
+- 🤔 Always looking for new knowledge, give me a help!
+- 💬 Ask me about anything
 
 
 
