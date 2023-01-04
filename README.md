@@ -1,6 +1,4 @@
   <Hello World, sou o Hézio!>
-</p> <div align="right">
-  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" src="https://github.com/24spell/24spell/blob/main/english-button.png" title="Read in English" alt="read in english"/>
  </div>
 - 🌱Cursando Bacharelado de Data Science & Machine Learning pelo CEUB  
 - 👯 Procuro gerar valor e agregar à equipe na qual eu pertencer
@@ -22,7 +20,9 @@
   <img align="center" alt="Hezio-Python" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
- 
+ </p> <div align="right">
+  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" src="https://github.com/24spell/24spell/blob/main/english-button.png" title="Read in English" alt="read in english"/>
+
  <h1><h1>
  
 <div align="center">
