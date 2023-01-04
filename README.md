@@ -23,7 +23,10 @@
  
  <h1><h1>
  
-
+<div align="center">
+  <a href="https://github.com/HezioS1lv4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HezioS1lv4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
 
   ![Snake animation](https://github.com/HezioS1lv4/HezioS1lv4/blob/output/github-contribution-grid-snake.svg)
  
