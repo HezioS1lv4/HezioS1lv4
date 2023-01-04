@@ -4,6 +4,7 @@
 - 👯 Procuro gerar valor e agregar à equipe na qual eu pertencer
 - 🤔 Procurando novos conhecimentos sempre, me da um help!
 - 💬 Pergunte-me sobre qualquer coisa
+</div>
 
 
 
