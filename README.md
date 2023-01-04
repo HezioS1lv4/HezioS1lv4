@@ -31,7 +31,6 @@
 <div align="center">
   <a href="https://github.com/HezioS1lv4">
 
-![snake gif](https://github.com/HezioS1lv4/HezioS1lv4/blob/output/github-contribution-grid-snake.svg)
     
 </div>
 </p> <div align="right">
