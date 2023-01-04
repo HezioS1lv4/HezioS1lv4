@@ -1,4 +1,4 @@
- <Hello World, i'm Hézio!>
+ <Hello World, I'm Hézio!>
  </div>
  
 - 🌱Doing Data Science & Machine Learning college by Uniceub
