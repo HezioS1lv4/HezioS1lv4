@@ -31,8 +31,8 @@
 <div align="center">
   <a href="https://github.com/HezioS1lv4">
 
-  ![Snake animation](https://github.com/HezioS1lv4/HezioS1lv4/blob/output/github-contribution-grid-snake.svg)
- 
+![snake gif](https://github.com/HezioS1lv4/HezioS1lv4/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
 </p> <div align="right">
   <a href="https://github.com/HezioS1lv4/HezioS1lv4/blob/966cb8a0938e59a834921d539cf4dd0e43ee264f/READM-EN.md"><img height="30em" width="30em" src="https://github.com/HezioS1lv4/HezioS1lv4/blob/f1ec1514805a97255ae4d649782f2e30fe8aab32/bt.png" title="Read in English" alt="read in english"/>
