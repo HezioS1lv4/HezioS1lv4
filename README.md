@@ -34,3 +34,6 @@
   ![Snake animation](https://github.com/HezioS1lv4/HezioS1lv4/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</p> <div align="right">
+  <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" src="https://github.com/24spell/24spell/blob/main/english-button.png" title="Read in English" alt="read in english"/>
+ </div>
