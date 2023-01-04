@@ -4,8 +4,9 @@
 - 👯 Procuro gerar valor e agregar à equipe na qual eu pertencer
 - 🤔 Procurando novos conhecimentos sempre, me da um help!
 - 💬 Pergunte-me sobre qualquer coisa
-<BR>
- 
+
+
+
 <div>
   <a href="https://www.linkedin.com/in/hezio-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "hezios43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -20,7 +21,9 @@
   <img align="center" alt="Hezio-Python" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
- </p> <div align="right">
+ </p> 
+ 
+ <div align="right">
   <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" src="https://github.com/24spell/24spell/blob/main/english-button.png" title="Read in English" alt="read in english"/>
 
  <h1><h1>
