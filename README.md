@@ -1,9 +1,7 @@
+  <Hello World, sou o Hézio!>
 </p> <div align="right">
   <a href="https://github.com/24spell/24spell/blob/main/README-en.md"><img height="30em" src="https://github.com/24spell/24spell/blob/main/english-button.png" title="Read in English" alt="read in english"/>
  </div>
-  
-<Hello World, sou o Hézio!>
-
 - 🌱Cursando Bacharelado de Data Science & Machine Learning pelo CEUB  
 - 👯 Procuro gerar valor e agregar à equipe na qual eu pertencer
 - 🤔 Procurando novos conhecimentos sempre, me da um help!
