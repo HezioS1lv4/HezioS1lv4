@@ -1,7 +1,7 @@
 
   <Hello World, sou o Hézio!>
  </div>
-- 🌱Cursando Bacharelado de Data Science & Machine Learning pelo CEUB  
+- 🌱 Bacharelado de Data Science & Machine Learning pelo CEUB  
 
 - 👯 Procuro gerar valor e agregar à equipe na qual eu pertencer
 - 🤔 Procurando novos conhecimentos sempre, me da um help!
